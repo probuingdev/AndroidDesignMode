@@ -2,7 +2,6 @@ package com.individual.wx.opencloseprinclemode;
 
 import android.graphics.Bitmap;
 import android.util.LruCache;
-import android.widget.ImageView;
 
 /**
  * Describe:内存缓存实现类 继承图片缓存接口
