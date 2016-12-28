@@ -18,3 +18,5 @@ public class DiskCache implements ImageCache {
         // TODO: 将Bitmap写入到本地文件中
     }
 }
+
+
