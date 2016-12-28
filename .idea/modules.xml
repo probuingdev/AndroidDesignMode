@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidDesignMode.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidDesignMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opencloseprinclemode/opencloseprinclemode.iml" filepath="$PROJECT_DIR$/.idea/modules/opencloseprinclemode/opencloseprinclemode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/baseprinclemode/baseprinclemode.iml" filepath="$PROJECT_DIR$/.idea/modules/baseprinclemode/baseprinclemode.iml" />
     </modules>
   </component>
 </project>

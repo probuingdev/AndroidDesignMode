@@ -1,1 +1,1 @@
-include ':app', ':opencloseprinclemode'
+include ':app', ':baseprinclemode'

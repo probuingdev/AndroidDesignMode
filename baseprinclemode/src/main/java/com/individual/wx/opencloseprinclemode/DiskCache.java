@@ -13,7 +13,6 @@ public class DiskCache implements ImageCache {
         // TODO: 从本地文件中获取图片
         return null;
     }
-
     @Override
     public void put(String url, Bitmap bitmap) {
         // TODO: 将Bitmap写入到本地文件中
