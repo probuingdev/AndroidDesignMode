@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidDesignMode.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidDesignMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderMode/BuilderMode.iml" filepath="$PROJECT_DIR$/BuilderMode/BuilderMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/baseprinclemode/baseprinclemode.iml" filepath="$PROJECT_DIR$/.idea/modules/baseprinclemode/baseprinclemode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/singlemode/singlemode.iml" filepath="$PROJECT_DIR$/.idea/modules/singlemode/singlemode.iml" />
     </modules>
   </component>
 </project>

@@ -1,1 +1,1 @@
-include ':app', ':baseprinclemode'
+include ':app', ':baseprinclemode', ':singlemode'
